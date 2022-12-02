@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2, h3, h4{
+
+    color: #0404a8;
+}
+a, li{
+    text-decoration: none;
+    list-style-type: none;
+}
+a:hover{
+    color: #0d62c4;
+}
+#texto-secundario{
+    font-size: 13.5px;
+}
+.texto-data{
+    font-size: 14px;
+    color: #06b463 ;
+    font-weight: 600;
+}
